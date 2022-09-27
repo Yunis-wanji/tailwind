@@ -1,3 +1,3 @@
 # tailwind
 
-Learning tailwind css
+Learning tailwind css building projects
